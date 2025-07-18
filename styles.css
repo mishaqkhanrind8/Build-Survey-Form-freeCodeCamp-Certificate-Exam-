@@ -40,11 +40,6 @@ form#survey-form {
   border-radius: 5px;
 }
 
-fieldset {
-  border: none;
-  padding: 1rem 0;
-}
-
 label {
   display: block;
 }
